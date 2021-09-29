@@ -7,6 +7,7 @@ function App () {
       <p className="bg-yellow-200 text-5xl p-5 hover:bg-blue-400 hover:text-red-700">This is a tailwind styled paragraph</p>
       <p className="text-primary">This is my custom styled tailwind class</p>
       <p className="text-custom">This is my custom styled tailwind class</p>
+      <p className="bg-green-300 text-danger text-8xl font-bold p-12">This is tailwind styled paragraph</p>
     </div>
   );
 }
